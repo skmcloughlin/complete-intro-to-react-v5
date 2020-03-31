@@ -4,6 +4,7 @@
   "description": "the Complete Intro to React, v5",
   "main": "src/App.js",
   "dependencies": {
+    "@frontendmasters/pet": "^1.0.3",
     "parcel": "^1.12.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
@@ -15,6 +16,7 @@
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^3.0.0",
     "prettier": "^2.0.2"
   },
   "scripts": {
